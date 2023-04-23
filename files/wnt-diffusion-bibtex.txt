@@ -1,0 +1,12 @@
+@article {Recouvreux2023.01.17.524363,
+	author = {Pierre Recouvreux and Pritha Pai and R{\'e}my Torro and M{\'o}nika Lud{\'a}nyi and Pauline M{\'e}l{\'e}nec and Mariem Boughzala and Vincent Bertrand and Pierre-Fran{\c c}ois Lenne},
+	title = {Establishment of Wnt ligand-receptor organization and cell polarity in the C. elegans embryo},
+	elocation-id = {2023.01.17.524363},
+	year = {2023},
+	doi = {10.1101/2023.01.17.524363},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {Different signaling mechanisms concur to ensure robust tissue patterning and cell fate instruction during animal development. Most of these mechanisms rely on signaling proteins that are produced, transported and detected. The spatiotemporal dynamics of signaling molecules is largely unknown, yet it determines signal activity{\textquoteright}s range and time frame. Here, we use the Caenorhabditis elegans embryo to study how Wnt ligands, an evolutionarily conserved family of signaling proteins, dynamically organize to establish cell polarity in a developing tissue. We identify how locally produced Wnt ligands spread to transmit information to distant target cells. With quantitative live imaging, we show that the Wnt ligands diffuse extracellularly through the embryo over a timescale shorter than the cell cycle. We extract diffusion coefficients of Wnt ligands and their receptor Frizzled (Fz) and characterize their co-localization. Integrating our different measurements and observations in a simple computational framework, we show how fast diffusion in the embryo can polarize target cells. Our results support diffusion-based long-range Wnt signaling, which is consistent with the dynamics of developing processes.Competing Interest StatementThe authors have declared no competing interest.},
+	URL = {https://www.biorxiv.org/content/early/2023/01/17/2023.01.17.524363},
+	eprint = {https://www.biorxiv.org/content/early/2023/01/17/2023.01.17.524363.full.pdf},
+	journal = {bioRxiv}
+}
