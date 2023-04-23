@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the personnal page of Lama Awada, PhD student"
+title: "Hello there, I'm Rémy, PhD student"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Lama and I'm a little 💩
-
+This is my academic website, you'll find my resume and lists of stuffs.
 
 Publications
 ------
