@@ -9,6 +9,6 @@ uri: https://www.biorxiv.org/content/10.1101/2022.02.11.480084v1
 arxiv: https://www.biorxiv.org/content/10.1101/2022.02.11.480084v1
 bibtex: files/cell-forces-bibtex.txt
 pdf: https://www.biorxiv.org/content/10.1101/2022.02.11.480084v1.full.pdf
-teaser: images/cell-forces_teaser.png
+teaser: images/cell-forces-graphical.png 
 ---
 
