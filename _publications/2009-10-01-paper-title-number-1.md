@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Neural Frame Interpolation for Rendered Content"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/frame-interpolation-cg
+date: 2021-12-15
+venue: "ACM TOG (SIGGRAPH Asia Conference Proceedings)"
+authors: "K. Briedis, A. Djelouah, M. Meyer, I. McGonigal, M. Gross, C. Schroers"
+uri: https://studios.disneyresearch.com/2021/11/30/neural-frame-interpolation-for-rendered-content/
+arxiv: 
+bibtex: files/2021-frame-interpolation-cg.txt
+pdf: https://studios.disneyresearch.com/app/uploads/2021/10/Neural-Frame-Interpolation-for-Rendered-Content.pdf
+teaser: images/2021_frame_intrp_cg.png
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
