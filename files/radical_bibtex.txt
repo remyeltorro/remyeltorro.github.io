@@ -1,0 +1,17 @@
+@article{10.1093/mnras/stz879,
+    author = {Butscher, T and Duvernay, F and Danger, G and Torro, R and Lucas, G and Carissan, Y and Hagebaum-Reignier, D and Chiavassa, T},
+    title = "{Radical-assisted polymerization in interstellar ice analogues: formyl radical and polyoxymethylene}",
+    journal = {Monthly Notices of the Royal Astronomical Society},
+    volume = {486},
+    number = {2},
+    pages = {1953-1963},
+    year = {2019},
+    month = {03},
+    abstract = "{We present new laboratory experiments on the low-temperature formation of complex organic molecules (COMs) such as polyoxymethylene (POM), glycolaldehyde, ethylene glycol, and possibly glyceraldehyde and glycerol through radical-induced reactivity from vacuum ultraviolet (VUV) photolysis of formaldehyde in Ar and Xe matrices. The radical reactivity and the endogenous formation of COMs were monitored in situ via infrared spectroscopy in the solid state and post-photolysis with temperature-programmed desorption using a quadripole mass spectrometer. Based on experimental findings and quantum calculations, we elaborate a formation pathway for formaldehyde polymerization induced by radicals (˙HCO and ˙CH2OH) that support POM formation in cometary environments. In addition, the fragmentation patterns obtained from the sublimation of short-chain-length POM are consistent with data collected by the Ptolemy instrument onboard the Rosetta mission and strengthen the POM identification made by this instrument.}",
+    issn = {0035-8711},
+    doi = {10.1093/mnras/stz879},
+    url = {https://doi.org/10.1093/mnras/stz879},
+    eprint = {https://academic.oup.com/mnras/article-pdf/486/2/1953/28485093/stz879.pdf},
+}
+
+
