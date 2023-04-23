@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lama Awada"
+title                    : "Rémy Torro"
 title_separator          : "-"
-name                     : &name "Lama Awada"
+name                     : &name "Rémy Torro"
 description              : &description "hello world"
-url                      : https://awadalama.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://remytorro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "awadalama/awadalama.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "remyeltorro/remytorro.github.io"
+teaser                   : "rsz_dsc_1278.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lama Awada"
-  avatar           : "lama.jpeg"
+  name             : "Rémy Torro"
+  avatar           : "rsz_dsc_1278.jpg"
   bio              : "hello world"
   location         : "Marseille"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "lama.awada@inserm.fr"
+  email            : "remy.torro@inserm.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "awadalama"
+  github           : "remyeltorro"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lama-awada"
-  orcid            : "https://orcid.org/0000-0002-3147-1628"
+  linkedin         : "remy-torro"
+  orcid            : "https://orcid.org/0000-0002-4903-8304"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
