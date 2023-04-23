@@ -33,8 +33,8 @@ Publications
 </style>
 
 <table class="hoverTable">
-  <col style="width:75%">
-  <col style="width:25%">
+  <col style="width:70%">
+  <col style="width:30%">
   {% for post in site.publications reversed %}
     {% include archive-single-pub.html %}
   {% endfor %}
