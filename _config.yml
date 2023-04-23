@@ -84,10 +84,10 @@ author:
   avatar           : "lama.jpeg"
   bio              : "hello world"
   location         : "Marseille"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : Aix-Marseille University
+  pubmed           : 
   googlescholar    : 
-  email            :
+  email            : lama.awada@inserm.fr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
