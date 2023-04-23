@@ -11,9 +11,9 @@ title                    : "Rémy Torro"
 title_separator          : "-"
 name                     : &name "Rémy Torro"
 description              : &description "hello world"
-url                      : https://remytorro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://remyeltorro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "remyeltorro/remytorro.github.io"
+repository               : "remyeltorro/remyeltorro.github.io"
 teaser                   : "rsz_dsc_1278.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
