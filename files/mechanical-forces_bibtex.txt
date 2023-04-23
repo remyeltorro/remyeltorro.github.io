@@ -1,0 +1,14 @@
+@article{https://doi.org/10.15252/embj.2022111841,
+author = {Pettmann, Johannes and Awada, Lama and Różycki, Bartosz and Huhn, Anna and Faour, Sara and Kutuzov, Mikhail and Limozin, Laurent and Weikl, Thomas R and van der Merwe, P Anton and Robert, Philippe and Dushek, Omer},
+title = {Mechanical forces impair antigen discrimination by reducing differences in T-cell receptor/peptide–MHC off-rates},
+journal = {The EMBO Journal},
+volume = {42},
+number = {7},
+pages = {e111841},
+keywords = {antigen discrimination, molecular forces, T-cell receptor},
+doi = {https://doi.org/10.15252/embj.2022111841},
+url = {https://www.embopress.org/doi/abs/10.15252/embj.2022111841},
+eprint = {https://www.embopress.org/doi/pdf/10.15252/embj.2022111841},
+abstract = {Abstract T cells use their T-cell receptors (TCRs) to discriminate between lower-affinity self and higher-affinity foreign peptide major-histocompatibility-complexes (pMHCs) based on the TCR/pMHC off-rate. It is now appreciated that T cells generate mechanical forces during this process but how force impacts the TCR/pMHC off-rate remains debated. Here, we measured the effect of mechanical force on the off-rate of multiple TCR/pMHC interactions. Unexpectedly, we found that lower-affinity TCR/pMHCs with faster solution off-rates were more resistant to mechanical force (weak slip or catch bonds) than higher-affinity interactions (strong slip bonds). This was confirmed by molecular dynamics simulations. Consistent with these findings, we show that the best-characterized catch bond, involving the OT-I TCR, has a low affinity and an exceptionally fast solution off-rate. Our findings imply that reducing forces on the TCR/pMHC interaction improves antigen discrimination, and we suggest a role for the adhesion receptors CD2 and LFA-1 in force-shielding the TCR/pMHC interaction.},
+year = {2023}
+}
