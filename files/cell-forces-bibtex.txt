@@ -1,0 +1,12 @@
+@article {Mustapha2022.02.11.480084,
+	author = {Farah Mustapha and Martine Pelicot-Biarnes and Remy Torro and Kheya Sengupta and Pierre-henri Puech},
+	title = {Cellular forces during early spreading of T lymphocytes on ultra-soft substrates},
+	elocation-id = {2022.02.11.480084},
+	year = {2022},
+	doi = {10.1101/2022.02.11.480084},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {T cells use forces to read out and act on the mechanical parameters of their microenvironment, which includes antigen presenting cells (APCs). Here we explore the early interaction of T cells with an APC-mimicking ultra-soft polymer gel exhibiting physiologically relevant stiffness in the range of 350-450 Pa. We quantify the dependence of cell spreading and stiffness on gel elasticity, and measure early time traction forces. We find that coating the surface with an antibody against the CD3 region of the TCR-complex elicits small but measurable gel deformation in the early recognition phase, which we quantify in terms of stress or energy. We show that the time evolution of the energy follows one of three distinct patterns: active fluctuation, intermittent, or sigmoidal signal. Addition of either anti-CD28 or anti-LFA1 has little impact on the total integrated energy or the maximum stress. However, the relative distribution of the energy patterns does depend on the additional ligands. Remarkably, the forces are centrifugal at very early times, and only later turn into classical in-ward pointing centripetal traction.},
+	URL = {https://www.biorxiv.org/content/early/2022/02/11/2022.02.11.480084},
+	eprint = {https://www.biorxiv.org/content/early/2022/02/11/2022.02.11.480084.full.pdf},
+	journal = {bioRxiv}
+}
