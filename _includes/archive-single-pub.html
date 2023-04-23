@@ -18,7 +18,7 @@
       {% if post.link %}
         <a href="#" onclick="return false;">{{ title }}</a>
       {% else %}
-        <a href="{{post.permalink}}" onclick="return false;">{{ title }}</a>
+        <a href="{{post.permalink}}" onclick="return true;">{{ title }}</a>
       {% endif %}
     </h3>
     {% if post.authors%}{{ post.authors }}{% endif %}
