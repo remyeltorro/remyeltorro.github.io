@@ -1,7 +1,7 @@
 ---
 title: "Mechanical forces impair antigen discrimination by reducing differences in T-cell receptor/peptide–MHC off-rates"
 collection: publications
-permalink: /publication/2023-mechanical-forces.md
+permalink: /publication/2023-mechanical-forces
 date: 2022-12-09
 venue: "The EMBO Journal"
 authors: "J. Pettmann, L. Awada, B. Różycki, A. Huhn, S. Faour, M. Kutuzov, L. Limozin, T. Weikl, A. Merwe, P. Robert, O. Dushek"
