@@ -9,5 +9,5 @@ uri: https://www.embopress.org/doi/full/10.15252/embj.2022111841
 arxiv: https://www.biorxiv.org/content/10.1101/2022.05.05.490751v1
 bibtex: files/2021-frame-interpolation-cg.txt
 pdf: https://www.embopress.org/doi/epdf/10.15252/embj.2022111841
-teaser: images/2021_frame_intrp_cg.png
+teaser: images/teaser_mechanical-forces.png
 ---
