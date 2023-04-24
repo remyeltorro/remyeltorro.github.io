@@ -54,7 +54,7 @@ print(f"For point 0; longitude: {lon_list[0]}; lattitude: {lat_list[0]}; elevati
     For point 0; longitude: 6.77668; lattitude: 44.67127; elevation: 1676.0
 
 
-Now we need some functions to work in cartesian coordinates and measure distance from the origin along the route:
+Seems like too much info? All we do is to parse the *queyras.gpx* file, which contains a bunch of bunch of points (track points, elevation and time stamps as obscure XML elements). We loop through all of those elemnts to extract lattitude/longitude geodetic coordinates, the elevation and the time stamp that we convert to seconds. Now we need some functions to work in cartesian coordinates and measure distance from the origin along the route:
 
 
 ```python
@@ -95,7 +95,7 @@ for k in range(n_track-1):
     d_list.append(sum_d)
 ```
 
-We are now ready to plot a topographic profile, from the distance to origin and altitude information.
+We are now ready to plot a topographic profile, from the distance to origin and altitude information. If we want a stylized version, ready to be imported on a travel blog:
 
 
 ```python
@@ -116,5 +116,6 @@ plt.savefig("profile.png",dpi=300)
 plt.show()
 ```
 
-
 ![png](/images/topographic_output.png)
+
+This is it, with this little tutorial you can generate a topographic profile in python from a GPX file.
