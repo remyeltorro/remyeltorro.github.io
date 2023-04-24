@@ -1,6 +1,6 @@
 ---
 title: 'Topographic profiles in python'
-date: 2199-01-01
+date: 2023-04-24
 permalink: /posts/2023/04/topographic-profiles
 tags:
   - fun code
