@@ -6,8 +6,6 @@ tags:
   - fun code
 ---
 
-# Topographic profile
-
 Welcome to this blog post where we'll explore how to plot topographic profiles from GPX tracks using Python. GPX tracks are a common format for storing GPS data, and they can be used to record a wide range of outdoor activities such as hiking, cycling, and running. Use your favorite app to generate GPX data, [Outdooractive](https://www.outdooractive.com/en/), [Openrunner](https://www.openrunner.com/en)... 
 
 One useful feature of GPX tracks is that they include elevation data, which allows us to create topographic profiles of the route. In this example, the data is my path along the *Tour du Queyras* trek, in the French Alps. The track can be downloaded [here](https://drive.google.com/file/d/1iphwoXtZVGJlmsLLTDpkM-FvpMLe8eFX/view?usp=share_link). Let's get started!
@@ -120,9 +118,3 @@ plt.show()
 
 
 ![png](/images/topographic_output.png)
-
-
-
-```python
-
-```
