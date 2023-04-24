@@ -10,4 +10,4 @@ location: "Paris, France"
 
 ![](/images/monod-talk.png)
 
-Beatriz Diaz-Bello and I experimented a co-talk on the ADCC project at the Jacques Monod Institute in Paris. She covered the immunology and experimental design and I covered the detection and analysis techniques.
+Beatriz Díaz-Bello and I experimented a co-talk on the ADCC project at the Jacques Monod Institute in Paris. She covered the immunology and experimental design and I covered the detection and analysis techniques.
