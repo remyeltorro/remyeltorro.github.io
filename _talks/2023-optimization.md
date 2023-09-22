@@ -1,7 +1,7 @@
 ---
 title: "Internal seminar: N-dimensional optimization"
 collection: talks
-type: "TShort talk"
+type: "Short talk"
 permalink: /talks/2023-optimization
 venue: "Laboratoire Adhésion et Inflammation (internal seminar)"
 date: 2023-03-28
