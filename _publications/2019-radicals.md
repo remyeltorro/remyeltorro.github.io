@@ -9,6 +9,6 @@ uri: https://academic.oup.com/mnras/article/486/2/1953/5423328
 arxiv: 
 bibtex: files/radical_bibtex.txt
 pdf: 
-teaser: images/radical_teaser.png
+teaser: images/teaser_royal.png
 ---
 
