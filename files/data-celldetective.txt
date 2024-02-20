@@ -1,0 +1,18 @@
+@dataset{torro_2024_10650279,
+  author       = {Torro, Rémy and
+                  Diaz-Bello, Beatriz and
+                  El Arawi, Dalia and
+                  Ammer, Lorna and
+                  Chames, Patrick and
+                  Sengupta, Kheya and
+                  Limozin, Laurent},
+  title        = {{Datasets, models and demos associated to 
+                   "Celldetective: an AI-enhanced image analysis tool
+                   for unraveling dynamic cell interactions"}},
+  month        = feb,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.10650279},
+  url          = {https://doi.org/10.5281/zenodo.10650279}
+}
