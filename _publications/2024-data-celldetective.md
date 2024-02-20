@@ -1,5 +1,5 @@
 ---
-title: "Datasets, models and demos associated to "Celldetective: an AI-enhanced image analysis tool for unraveling dynamic cell interactions""
+title: "Datasets, models and demos associated to 'Celldetective: an AI-enhanced image analysis tool for unraveling dynamic cell interactions'"
 collection: publications
 permalink: /publication/data-celldetective
 date: 2024-02-12
