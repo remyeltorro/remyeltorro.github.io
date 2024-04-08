@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Rémy, PhD student"
+title: "Hello there, I'm Rémy, a fresh Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my academic website, you'll find my resume and lists of stuffs.
+This website collects many of the projects I was invovled with. You'll find talks, my resume and random stuff.
 
 Publications
 ------
