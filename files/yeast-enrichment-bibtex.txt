@@ -1,0 +1,12 @@
+@article {Sanicas2024.01.03.574015,
+	author = {Merlin Sanicas and R{\'e}my Torro and Laurent Limozin and Patrick Chames},
+	title = {Antigen density and applied force control enrichment of nanobody-expressing yeast cells in microfluidics},
+	elocation-id = {2024.01.03.574015},
+	year = {2024},
+	doi = {10.1101/2024.01.03.574015},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {In vitro display technologies such as yeast display have been instrumental in developing the selection of new antibodies, antibody fragments or nanobodies that bind to a specific target, with affinity towards the target being the main factor that influences selection outcome. However, the roles of mechanical forces are being increasingly recognized as a crucial factor in the regulation and activation of effector cell function. It would thus be of interest to isolate binders behaving optimally under the influence of mechanical forces. We developed a microfluidic assay allowing the selection of yeast displaying nanobodies through antigen-specific immobilization on a surface under controlled hydrodynamic flow. This approach enabled enrichment of model yeast mixtures using tunable antigen density and applied force. This new force-based selection method opens the possibility of selecting binders by relying on both their affinity and force resistance, with implications for the design of more efficient immunotherapeutics.Competing Interest StatementThe authors have declared no competing interest.},
+	URL = {https://www.biorxiv.org/content/early/2024/01/03/2024.01.03.574015},
+	eprint = {https://www.biorxiv.org/content/early/2024/01/03/2024.01.03.574015.full.pdf},
+	journal = {bioRxiv}
+}
