@@ -9,5 +9,5 @@ uri: https://www.biorxiv.org/content/10.1101/2024.03.15.585250v1
 arxiv: https://www.biorxiv.org/content/10.1101/2024.03.15.585250v1
 bibtex: files/celldetective-bibtex.txt
 pdf: 
-teaser:  images/software.png
+teaser:  images/logo-large.png
 ---
