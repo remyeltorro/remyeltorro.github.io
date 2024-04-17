@@ -9,5 +9,5 @@ uri: https://zenodo.org/records/10650279
 arxiv: https://zenodo.org/records/10650279
 bibtex: files/data-celldetective-bibtex.txt
 pdf: 
-teaser: 
+teaser: images/zenodo-teaser.png
 ---
