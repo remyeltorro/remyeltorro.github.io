@@ -27,7 +27,7 @@ redirect_from:
   
 ## Projects
 
-You will find more numerical projects on the [GitHub repository](https://github.com/remyeltorro). Here are three highlights where I collaborated directly with experimentalists, giving them the keys to analyze their data. 
+You will find more numerical projects on the [GitHub repository](https://github.com/remyeltorro). Here are three highlights where I collaborated directly with experimentalists, giving them keys to analyze their data. 
 
 ---
 
