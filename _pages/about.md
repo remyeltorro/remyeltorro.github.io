@@ -10,8 +10,30 @@ redirect_from:
 
 Technical skills: image/signal analysis, Deep-learning engineering
 
-Education
----------
+# Relevant experience
+
+**Post-doctoral researcher @ Centre Interdisciplinaire de Nanosciences de Marseille (CINaM) (June-July 2024)**
+
+* Software development and maintenance ([Celldetective](https://github.com/remyeltorro/celldetective))
+* Develop appropriate benchmarks to test segmentation, classification and regression performance of traditional and Deep-learning models on test data
+* Design cell pair measurements. Develop a viewer and annotator for cell pairs
+ 
+**Ph.D. candidate @ Laboratoire Adhésion & Inflammation (LAI) and CINaM (September 2020 - April 2024)**
+
+* Developed a versatile method to study the effect of drug treatments on immune cell interactions with cancer cells or biomimetic surfaces. Single-cell resolution for mixed cell populations imaged using various optical microscopy techniques (brightfield, reflection interference, fluorescence...). Event formulation adapted to the system (death, spreading...).
+
+  
+# Projects
+
+**Celldetective**
+
+**Yeast cell detection**
+
+**Traction force microscopy image registration**
+
+
+# Education
+
 
 * Ph.D. Biophysics, Aix-Marseille Université, France (April 2024)
 
@@ -25,8 +47,8 @@ Education
 
 ---
 
-Publications
-------
+# Publications
+
 <style style="text/css">
   	.hoverTable{
 		width:100%; 
