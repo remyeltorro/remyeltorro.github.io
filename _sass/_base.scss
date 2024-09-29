@@ -167,11 +167,14 @@ a:link {
 
 a:hover {
   color: #ff7f0e;
-  font-weight: bold;
+  //font-weight: bold;
   }
 
 a:visited {
   color: inherit;
+  &:hover {
+    color: #ff7f0e;
+  }
 }
 
 
