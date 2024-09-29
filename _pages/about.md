@@ -27,6 +27,8 @@ redirect_from:
   
 ## Projects
 
+---
+
 #### Celldetective ([Source code](https://github.com/remyeltorro/celldetective) | [Preprint](https://www.biorxiv.org/content/10.1101/2024.03.15.585250v1))
 
 **Goal:** help experimentalists with low to no coding skills measure cell interactions from microscopy images with single-cell resolution
@@ -42,6 +44,7 @@ redirect_from:
 
 **Delivery:** a Python package accompanied by a complete graphical interface, forming a closed and intuitive ecosystem to correct images, segment, track & measure cells, pick up events, compute neighborhoods, plot results (survival functions, measurement distributions, collapse single-cell signals with respect to an event time)... Developed in close collaboration with experimentalist / users. Software routinely used in LAI & CINaM on several projects.
 
+---
 
 #### Yeast cell detection ([Publication](https://pubs.rsc.org/en/Content/ArticleLanding/2024/LC/D4LC00011K))
 
@@ -54,8 +57,9 @@ redirect_from:
 
 **Delivery:** a Fiji macro for 1), a PyQt GUI to combine the measurements of 1) with 2) and perform task 3), all the way to plotting results
 
+---
 
-#### Traction force microscopy image registration
+#### Traction force microscopy image registration ([Source code](https://github.com/remyeltorro/SPTAlign) | [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.11.480084v1))
 
 
 ## Talks
