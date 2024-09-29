@@ -27,6 +27,8 @@ redirect_from:
   
 ## Projects
 
+You will find more numerical projects on the [GitHub repository](https://github.com/remyeltorro). Here are three highlights where I collaborated directly with experimentalists, giving them the keys to analyze their data. 
+
 ---
 
 #### Celldetective ([Source code](https://github.com/remyeltorro/celldetective) | [Preprint](https://www.biorxiv.org/content/10.1101/2024.03.15.585250v1))
