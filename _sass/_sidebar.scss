@@ -39,9 +39,13 @@
   }
 
   p, li {
-    font-family: $sans-serif;
-    font-size: $type-size-6;
-    line-height: 1.5;
+    //font-family: $sans-serif;
+    //font-size: $type-size-6;
+    //line-height: 1.5;
+    width: 270px;
+    float: left;
+    position: fixed;
+    -webkit-font-smoothing: subpixel-antialiased;
   }
 
   img {
