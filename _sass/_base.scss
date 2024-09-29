@@ -50,6 +50,10 @@ h1, h2, h3, h4, h5, h6 {
   //font-weight: bold;
 }
 
+h3, h4, h5, h6 {
+  color: #494949;
+}
+
 h1 {
   //display: block;
   font-size: 2em;
@@ -80,7 +84,12 @@ h3 {
 }
 
 h4 {
-  font-size: $type-size-6;
+  margin-block-start: 1.33em;
+  margin-block-end: 1.33em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  unicode-bidi: isolate;
 }
 
 h5 {

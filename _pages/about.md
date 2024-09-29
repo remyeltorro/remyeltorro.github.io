@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Technical skills: image/signal analysis, Deep-learning engineering
+#### Technical skills: image/signal analysis, Deep-learning engineering
 
 ## Relevant experience
 
 <strong>Post-doctoral researcher @ Centre Interdisciplinaire de Nanosciences de Marseille (<a href="https://www.cinam.univ-mrs.fr/cinam/">CINaM</a>) (June-July 2024)</strong>
 
 * Software development and maintenance ([Celldetective](https://github.com/remyeltorro/celldetective))
-* Develop appropriate benchmarks to test segmentation, classification and regression performance of traditional and Deep-learning models on test data
-* Design cell pair measurements. Develop a viewer and annotator for cell pairs
+* Development of appropriate benchmarks to test segmentation, classification and regression performance of traditional and Deep-learning models on test data
+* Design of cell pair measurements. Develop a viewer and annotator for cell pairs
  
 <strong>Ph.D. candidate @ Laboratoire Adhésion & Inflammation (<a href="https://labadhesioninflammation.org/">LAI</a>) and CINaM (September 2020 - April 2024)</strong>
 
-* Developed a versatile method to study the effect of drug treatments on immune cell interactions with cancer cells or biomimetic surfaces. Single-cell resolution for mixed cell populations imaged using various optical microscopy techniques (brightfield, reflection interference, fluorescence...). Event formulation adapted to the system (death, spreading...).
+* Development of a versatile method to study the effect of biological conditions on immune cell interactions with cancer cells or biomimetic surfaces. Single-cell resolution for mixed cell populations imaged using various optical microscopy techniques (brightfield, reflection interference, fluorescence...). Event formulation adapted to the system (death, spreading...).
 
   
 ## Projects
