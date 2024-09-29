@@ -10,7 +10,7 @@ redirect_from:
 
 Technical skills: image/signal analysis, Deep-learning engineering
 
-# Relevant experience
+## Relevant experience
 
 **Post-doctoral researcher @ Centre Interdisciplinaire de Nanosciences de Marseille (CINaM) (June-July 2024)**
 
@@ -23,7 +23,7 @@ Technical skills: image/signal analysis, Deep-learning engineering
 * Developed a versatile method to study the effect of drug treatments on immune cell interactions with cancer cells or biomimetic surfaces. Single-cell resolution for mixed cell populations imaged using various optical microscopy techniques (brightfield, reflection interference, fluorescence...). Event formulation adapted to the system (death, spreading...).
 
   
-# Projects
+## Projects
 
 **Celldetective**
 
@@ -32,7 +32,7 @@ Technical skills: image/signal analysis, Deep-learning engineering
 **Traction force microscopy image registration**
 
 
-# Education
+## Education
 
 
 * Ph.D. Biophysics, Aix-Marseille Université, France (April 2024)
@@ -47,7 +47,7 @@ Technical skills: image/signal analysis, Deep-learning engineering
 
 ---
 
-# Publications
+## Publications
 
 <style style="text/css">
   	.hoverTable{
