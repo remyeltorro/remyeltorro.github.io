@@ -2,7 +2,7 @@
 title: "Transfer of polarity information via diffusion of Wnt ligands in C. elegans embryos"
 collection: publications
 permalink: https://www.cell.com/current-biology/abstract/S0960-9822(24)00370-1
-date: 2024-04-10
+date: 2024-05-06
 venue: "Current Biology"
 authors: "P. Recouvreux, P. Pai, V. Dunsing, R. Torro, M. Ludanyi, P. Mélénec, M. Boughzala, V. Bertrand, PF. Lenne"
 uri: https://www.cell.com/current-biology/abstract/S0960-9822(24)00370-1
