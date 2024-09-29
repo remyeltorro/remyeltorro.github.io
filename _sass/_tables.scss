@@ -5,10 +5,13 @@
 table {
   margin-bottom: 1em;
   width: 100%;
-  font-family: $global-font-family;
-  font-size: $type-size-6;
+  #font-family: $global-font-family;
+  #font-size: $type-size-6;
   border-collapse: collapse;
   border: 1px solid $light-gray;
+  font: 14px / 1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #727272;
+  font-weight: 400;
 
   & + table {
     margin-top: 1em;

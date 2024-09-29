@@ -10,7 +10,7 @@ redirect_from:
 
 # Data scientist
 
-#### Technical skills: image/signal analysis, Deep-learning engineering
+#### Technical skills: image/signal analysis, Deep-learning engineering, software development
 
 ## Experience
 
