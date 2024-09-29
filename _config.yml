@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rémy Torro"
   avatar           : "rsz_dsc_1278.jpg"
-  bio              : "🔝 on the day before last of the Belledonne trek... or after a long debugging session!"
+  bio              : 
   location         : "Marseille"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "remy.torro@inserm.fr"
+  email            : "remy.torro@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://photorro.wordpress.com"
   bitbucket        :
