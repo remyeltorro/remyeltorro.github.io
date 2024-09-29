@@ -77,15 +77,10 @@ Developed in close collaboration with experimentalist researches (Ph.D. students
 
 **Delivery:** an easy-to-use Jupyter notebook and Python package
 
-
-<div align="center">
   
-Original TFM stack             |  Drift corrected stack
-:-------------------------:|:-------------------------:
-![](images/drift.gif)  |  ![](images/drift_corrected.gif)
-  
-</div>
-
+|Original TFM stack         | Drift corrected stack          |
+|:-------------------------:|:------------------------------:|
+| ![](images/drift.gif)     | ![](images/drift_corrected.gif)|
 
 
 ## Talks
