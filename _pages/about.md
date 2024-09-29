@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Data scientist"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Data scientist
 
 #### Technical skills: image/signal analysis, Deep-learning engineering
 
