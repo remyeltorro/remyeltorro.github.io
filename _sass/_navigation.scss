@@ -88,7 +88,8 @@
       border-radius: 0;
 
       &:hover {
-        color: $link-color-hover;
+        color: #000000;
+        font-weight: bold;
       }
 
       &.current {
@@ -266,7 +267,7 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: $masthead-link-color-hover;
+        color: #000000;
         background: mix(#fff, $primary-color, 75%);
       }
     }
