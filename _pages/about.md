@@ -66,6 +66,15 @@ Developed in close collaboration with experimentalist researches (Ph.D. students
 #### Traction force microscopy image registration ([Source code](https://github.com/remyeltorro/SPTAlign) | [Preprint](https://www.biorxiv.org/content/10.1101/2022.02.11.480084v1))
 
 
+**Goal:** perform a subpixel registration of traction force microscopy images to be able to detect subtle bead motion due to cells pulling on gels
+
+**Techniques:**
+1. single-particle tracking data analysis to estimate the drift with respect to a reference frame (moving reference if needed)
+2. apply an inverse shift in Fourier space to achieve a subpixel correction with no artefacts
+
+**Delivery:** an easy-to-use Jupyter notebook and Python package
+
+
 ## Talks
 
 
