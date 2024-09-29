@@ -12,7 +12,7 @@ Technical skills: image/signal analysis, Deep-learning engineering
 
 ## Relevant experience
 
-<strong>Post-doctoral researcher @ Centre Interdisciplinaire de Nanosciences de Marseille (CINaM) (June-July 2024)</strong>
+<strong>Post-doctoral researcher @ <a href="https://www.cinam.univ-mrs.fr/cinam/">Centre Interdisciplinaire de Nanosciences de Marseille</a> (CINaM) (June-July 2024)</strong>
 
 * Software development and maintenance ([Celldetective](https://github.com/remyeltorro/celldetective))
 * Develop appropriate benchmarks to test segmentation, classification and regression performance of traditional and Deep-learning models on test data
