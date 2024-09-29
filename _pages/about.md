@@ -51,8 +51,6 @@ Developed in close collaboration with experimentalist researches (Ph.D. students
 ![](images/celldetective-pipeline.png)
 *Celldetective workflow*
 
-![](images/pipeline.png)
-*Segment, track & measure modules in Celldetective*
 
 ---
 
