@@ -31,7 +31,7 @@ redirect_from:
 
 **Goal:** make a tool to allow experimentalists with low to no coding skills to measure cell interactions from microscopy images with single-cell resolution
 
-**Challenges:** mixed cell populations, high density, heterogeneous and partial fluorescence marking, important data volume (~50-150 Gb per experiment)
+**Challenges:** mixed cell populations, high density, heterogeneous and partial fluorescence marking, imaging and experimental conditions varying regularly, important data volume (~50-150 Gb per experiment)
 
 **Techniques:**
 - traditional or Deep-learning segmentation (StarDist, Cellpose), with dataset curation and model training
