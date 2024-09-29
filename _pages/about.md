@@ -29,9 +29,28 @@ redirect_from:
 
 <strong>Celldetective</strong>
 
+Goal: make accessible the study of immune and cancer cell interactions (or biomimetic surface) to experimentalists with little to no programming skills
+
+Challenges: mixed cell populations, high density, heterogeneous and partial fluorescence marking, important data volume (~50-150 Gb per experiment)
+
+Techniques:
+* traditional or Deep-learning segmentation (StarDist, Cellpose), with dataset curation and model training
+* cell tracking with a Bayesian tracker (bTrack)
+* event class formulation to describe the dynamic cell states. Automation with convolutional models interpreting single-cell signals (classification, regression)
+* neighborhood schemes to link the single-cells of a population (e.g. cancer cells) to the single-cells of the other population (e.g. immune cells) and describe cell pairs
+... and many more interesting techniques!
+
+Delivery: a Python package accompanied by a complete graphical interface, forming a closed and intuitive ecosystem to correct images, segment, track & measure cells, pick up events, compute neighborhoods, plot results (survival functions, measurement distributions, collapse single-cell signals with respect to an event time)... Developed in close collaboration with experimentalist / users. Software routinely used in LAI & CINaM on several projects.
+
+
 <strong>Yeast cell detection</strong>
 
 <strong>Traction force microscopy image registration</strong>
+
+
+## Talks
+
+
 
 
 ## Education
@@ -81,8 +100,6 @@ redirect_from:
 ---
 
 <p style="margin-bottom:3cm;"></p>
-
-
 
 
 
