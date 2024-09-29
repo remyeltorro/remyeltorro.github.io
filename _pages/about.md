@@ -18,7 +18,7 @@ Technical skills: image/signal analysis, Deep-learning engineering
 * Develop appropriate benchmarks to test segmentation, classification and regression performance of traditional and Deep-learning models on test data
 * Design cell pair measurements. Develop a viewer and annotator for cell pairs
  
-<strong>Ph.D. candidate @ Laboratoire Adhésion & Inflammation (LAI) and CINaM (September 2020 - April 2024)</strong>
+<strong>Ph.D. candidate @ <a href="https://labadhesioninflammation.org/">Laboratoire Adhésion & Inflammation</a> (LAI) and CINaM (September 2020 - April 2024)</strong>
 
 * Developed a versatile method to study the effect of drug treatments on immune cell interactions with cancer cells or biomimetic surfaces. Single-cell resolution for mixed cell populations imaged using various optical microscopy techniques (brightfield, reflection interference, fluorescence...). Event formulation adapted to the system (death, spreading...).
 
