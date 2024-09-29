@@ -48,6 +48,9 @@ You will find more numerical projects on the [GitHub repository](https://github.
 
 Developed in close collaboration with experimentalist researches (Ph.D. students, engineer, post-doc). Software routinely used in LAI & CINaM on several projects.
 
+![](images/celldetective-pipeline.png)
+*Celldetective workflow*
+
 ---
 
 #### Yeast cell detection ([Publication](https://pubs.rsc.org/en/Content/ArticleLanding/2024/LC/D4LC00011K))
