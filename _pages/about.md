@@ -27,7 +27,7 @@ redirect_from:
   
 ## Projects
 
-<strong>Celldetective</strong>
+#### Celldetective
 
 **Goal:** help experimentalists with low to no coding skills measure cell interactions from microscopy images with single-cell resolution
 
@@ -43,9 +43,9 @@ redirect_from:
 **Delivery:** a Python package accompanied by a complete graphical interface, forming a closed and intuitive ecosystem to correct images, segment, track & measure cells, pick up events, compute neighborhoods, plot results (survival functions, measurement distributions, collapse single-cell signals with respect to an event time)... Developed in close collaboration with experimentalist / users. Software routinely used in LAI & CINaM on several projects.
 
 
-<strong>Yeast cell detection</strong>
+#### Yeast cell detection
 
-<strong>Traction force microscopy image registration</strong>
+#### Traction force microscopy image registration
 
 
 ## Talks
