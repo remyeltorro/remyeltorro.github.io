@@ -48,7 +48,11 @@ You will find more numerical projects on the [GitHub repository](https://github.
 
 Developed in close collaboration with experimentalist researches (Ph.D. students, engineer, post-doc). Software routinely used in LAI & CINaM on several projects.
 
-<iframe src="https://docs.google.com/gview?url=https://github.com/remyeltorro/remyeltorro.github.io/raw/master/images/pipeline.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<object data="https://github.com/remyeltorro/remyeltorro.github.io/raw/master/images/pipeline.pdf" type="application/pdf" width="100%">
+    <embed src="https://github.com/remyeltorro/remyeltorro.github.io/raw/master/images/pipeline.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/remyeltorro/remyeltorro.github.io/raw/master/images/pipeline.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 ---
