@@ -43,7 +43,17 @@ redirect_from:
 **Delivery:** a Python package accompanied by a complete graphical interface, forming a closed and intuitive ecosystem to correct images, segment, track & measure cells, pick up events, compute neighborhoods, plot results (survival functions, measurement distributions, collapse single-cell signals with respect to an event time)... Developed in close collaboration with experimentalist / users. Software routinely used in LAI & CINaM on several projects.
 
 
-#### Yeast cell detection
+#### Yeast cell detection ([Publication](https://pubs.rsc.org/en/Content/ArticleLanding/2024/LC/D4LC00011K))
+
+**Goal:** measure the enrichment of non-fluorescent yeast cells from optical microscopy images (brightfield and fluorescence) delayed temporally (projection is not enough)
+
+**Techniques:** 
+1. traditional segmentation of the yeast cells from brightfield with top-hat filtering and thresholding
+2. detection of fluorescent yeast cells with TrackPy (tracker)
+3. linking of brightfield-detected yeast cells to fluorescent yeast cells with a co-distance matrix (closest neighbor within a critical distance)
+
+**Delivery:** a Fiji macro for 1), a PyQt GUI to combine the measurements of 1) with 2) and perform task 3), all the way to plotting results
+
 
 #### Traction force microscopy image registration
 
