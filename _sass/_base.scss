@@ -14,14 +14,6 @@ body {
   color: #727272;
   font-weight: 400;
 
-  //margin: 0;
-  //padding: 0;
-  //padding-bottom: 9em;
-  //color: $text-color;
-  //font-family: $global-font-family;
-  //line-height: 1.5;
-  //font-size: $type-size-body;
-
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
@@ -44,10 +36,6 @@ h1, h2, h3 {
 h1, h2, h3, h4, h5, h6 {
   color: #222;
   margin: 0 0 20px;
-  //margin: 2em 0 0.5em;
-  //line-height: 1.2;
-  //font-family: $header-font-family;
-  //font-weight: bold;
 }
 
 h3, h4, h5, h6 {
@@ -62,7 +50,7 @@ header {
 }
 
 h1 {
-  //display: block;
+  display: block;
   font-size: 2em;
   margin-block-start: 0.67em;
   margin-block-end: 0.67em;
@@ -70,12 +58,10 @@ h1 {
   margin-inline-end: 0px;
   font-weight: bold;
   unicode-bidi: isolate;
-  //margin-top: 0;
-  //font-size: $type-size-1;
 }
 
 h2 {
-  //display: block;
+  display: block;
   font-size: 1.5em;
   margin-block-start: 0.83em;
   margin-block-end: 0.83em;
@@ -83,7 +69,6 @@ h2 {
   margin-inline-end: 0px;
   font-weight: bold;
   unicode-bidi: isolate;
-  //font-size: $type-size-4;
 }
 
 h3 {
@@ -96,7 +81,6 @@ h4 {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   font-weight: bold;
-  font: 16px / 1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   unicode-bidi: isolate;
 }
 
@@ -176,6 +160,10 @@ a {
     outline: 0;
   }
 }
+
+a:hover {
+  color: #ff7f0e;
+  }
 
 /* code */
 

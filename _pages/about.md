@@ -12,7 +12,7 @@ redirect_from:
 
 #### Technical skills: image/signal analysis, Deep-learning engineering
 
-## Relevant experience
+## Experience
 
 <strong>Post-doctoral researcher @ Centre Interdisciplinaire de Nanosciences de Marseille (<a href="https://www.cinam.univ-mrs.fr/cinam/">CINaM</a>) (June-July 2024)</strong>
 
