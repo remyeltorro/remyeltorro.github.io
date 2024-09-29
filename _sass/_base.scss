@@ -28,11 +28,18 @@ body {
   }
 }
 
+
+h1, h2, h3 {
+  line-height: 1.1;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  margin: 2em 0 0.5em;
-  line-height: 1.2;
-  font-family: $header-font-family;
-  font-weight: bold;
+  color: #222;
+  margin: 0 0 20px;
+  //margin: 2em 0 0.5em;
+  //line-height: 1.2;
+  //font-family: $header-font-family;
+  //font-weight: bold;
 }
 
 h1 {
