@@ -8,13 +8,19 @@ html {
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  padding-bottom: 9em;
-  color: $text-color;
-  font-family: $global-font-family;
-  line-height: 1.5;
-  font-size: $type-size-body;
+  background-color: #fff;
+  padding: 50px;
+  font: 14px / 1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #727272;
+  font-weight: 400;
+
+  //margin: 0;
+  //padding: 0;
+  //padding-bottom: 9em;
+  //color: $text-color;
+  //font-family: $global-font-family;
+  //line-height: 1.5;
+  //font-size: $type-size-body;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
