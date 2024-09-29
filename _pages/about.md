@@ -44,7 +44,9 @@ You will find more numerical projects on the [GitHub repository](https://github.
 - neighborhood schemes to link the single-cells of a population (e.g. cancer cells) to the single-cells of the other population (e.g. immune cells) and describe cell pairs
 ... and many more interesting techniques!
 
-**Delivery:** a Python package accompanied by a complete graphical interface, forming a closed and intuitive ecosystem to correct images, segment, track & measure cells, pick up events, compute neighborhoods, plot results (survival functions, measurement distributions, collapse single-cell signals with respect to an event time)... Developed in close collaboration with experimentalist / users. Software routinely used in LAI & CINaM on several projects.
+**Delivery:** a Python package accompanied by a complete graphical interface, forming a closed and intuitive ecosystem to correct images, segment, track & measure cells, pick up events, compute neighborhoods, plot results (survival functions, measurement distributions, collapse single-cell signals with respect to an event time)... 
+
+Developed in close collaboration with experimentalist researches (Ph.D. students, engineer, post-doc). Software routinely used in LAI & CINaM on several projects.
 
 ---
 
