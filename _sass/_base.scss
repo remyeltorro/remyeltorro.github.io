@@ -161,15 +161,19 @@ a {
   }
 }
 
-
-
 a:link {
   color: inherit;
   }
 
 a:hover {
   color: #ff7f0e;
+  font-weight: bold;
   }
+
+a:visited {
+  color: inherit;
+}
+
 
 /* code */
 
