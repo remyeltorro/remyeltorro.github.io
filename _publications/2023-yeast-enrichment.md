@@ -2,7 +2,7 @@
 title: "Antigen density and applied force control enrichment of nanobody-expressing yeast cells in microfluidics"
 collection: publications
 permalink: https://pubs.rsc.org/en/Content/ArticleLanding/2024/LC/D4LC00011K
-date: 2024-04-29
+date: 2024-01-11
 venue: "Lab on a Chip"
 authors: "M. Sanicas, R. Torro, L. Limozin, P. Chames"
 uri: https://pubs.rsc.org/en/Content/ArticleLanding/2024/LC/D4LC00011K

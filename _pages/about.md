@@ -71,9 +71,16 @@ redirect_from:
 </style>
 
 <table class="hoverTable">
-  <col style="width:70%">
-  <col style="width:30%">
+  <col style="width:80%">
+  <col style="width:20%">
   {% for post in site.publications reversed %}
     {% include archive-single-pub.html %}
   {% endfor %}
 </table>
+
+
+
+
+
+
+
