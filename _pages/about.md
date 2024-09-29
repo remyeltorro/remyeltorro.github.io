@@ -29,7 +29,7 @@ redirect_from:
 
 <strong>Celldetective</strong>
 
-**Goal:** make a tool to allow experimentalists with low to no coding skills to measure cell interactions from microscopy images with single-cell resolution
+**Goal:** help experimentalists with low to no coding skills measure cell interactions from microscopy images with single-cell resolution
 
 **Challenges:** mixed cell populations, high density, heterogeneous and partial fluorescence marking, imaging and experimental conditions varying regularly, important data volume (~50-150 Gb per experiment)
 
