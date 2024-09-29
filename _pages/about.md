@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Rémy, a fresh Ph.D."
+title: "Data scientist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-This website collects many of the projects I was invovled with. You'll find talks, my resume and random stuff.
+Technical skills: image/signal analysis, Deep-learning engineering
+
+Education
+---------
+
+* Ph.D. Biophysics, Aix-Marseille Université, France (April 2024)
+
+---
+
+* M.S. Physics, Aix-Marseille Université, France (June 2020)
+
+---
+
+* B.S. Physics, University of Calgary, Canada / Aix-Marseille Université, France (May 2018)
+
+---
 
 Publications
 ------
