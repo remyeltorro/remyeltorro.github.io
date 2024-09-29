@@ -51,6 +51,9 @@ Developed in close collaboration with experimentalist researches (Ph.D. students
 ![](images/celldetective-pipeline.png)
 *Celldetective workflow*
 
+![](images/pipeline.png)
+*Segment, track & measure modules in Celldetective*
+
 ---
 
 #### Yeast cell detection ([Publication](https://pubs.rsc.org/en/Content/ArticleLanding/2024/LC/D4LC00011K))
