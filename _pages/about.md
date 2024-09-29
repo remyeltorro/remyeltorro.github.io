@@ -27,7 +27,7 @@ redirect_from:
   
 ## Projects
 
-#### Celldetective
+#### Celldetective ([Source code](https://github.com/remyeltorro/celldetective) | [Preprint](https://www.biorxiv.org/content/10.1101/2024.03.15.585250v1))
 
 **Goal:** help experimentalists with low to no coding skills measure cell interactions from microscopy images with single-cell resolution
 
