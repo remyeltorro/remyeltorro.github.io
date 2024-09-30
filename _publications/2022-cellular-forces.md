@@ -1,7 +1,7 @@
 ---
 title: "Cellular forces during early spreading of T lymphocytes on ultra-soft substrates"
 collection: publications
-permalink: /publication/cellular-forces
+permalink: https://www.biorxiv.org/content/10.1101/2022.02.11.480084v1
 date: 2022-02-11
 venue: "bioRxiv"
 authors: "F. Mustapha, M. Biarnes-Pelicot, R. Torro, K. Sengupta, PH. Puech"
