@@ -16,7 +16,6 @@ redirect_from:
 
 <strong>Post-doctoral researcher @ Centre Interdisciplinaire de Nanosciences de Marseille (<a href="https://www.cinam.univ-mrs.fr/cinam/">CINaM</a>) (June-July 2024)</strong>
 
-* Software development and maintenance ([Celldetective](https://github.com/remyeltorro/celldetective))
 * Development of appropriate benchmarks to test segmentation (double scoring on detection accuracy and segmentation quality over cells with non ambiguous area), classification and regression performance of traditional and Deep-learning models on test data
 * Internship supervision to design cell pair descriptors and an intuitive viewer to interact with cell pairs
  
