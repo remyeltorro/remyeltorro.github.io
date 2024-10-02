@@ -18,7 +18,7 @@ redirect_from:
 
 * Software development and maintenance ([Celldetective](https://github.com/remyeltorro/celldetective))
 * Development of appropriate benchmarks to test segmentation (double scoring on detection accuracy and segmentation quality over cells with non ambiguous area), classification and regression performance of traditional and Deep-learning models on test data
-* Internship supervision to design cell pair descriptors and a viewer to interact with cell pairs
+* Internship supervision to design cell pair descriptors and an intuitive viewer to interact with cell pairs
  
 <strong>Ph.D. candidate @ Laboratoire Adhésion & Inflammation (<a href="https://labadhesioninflammation.org/">LAI</a>) and CINaM (September 2020 - April 2024)</strong>
 
