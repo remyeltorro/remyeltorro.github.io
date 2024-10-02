@@ -22,9 +22,9 @@ redirect_from:
  
 <strong>Ph.D. candidate @ Laboratoire Adhésion & Inflammation (<a href="https://labadhesioninflammation.org/">LAI</a>) and CINaM (September 2020 - April 2024)</strong>
 
-* **Data analysis**: quantified and modelled the increase in immune to cancer cell kill rate with new antibodies, from optical microscopy images
-* **Scientific discovery**: described and measured the spreading decision rate of immune cells on antibody-covered surfaces, that correlates with kill rate
-* **Technical but accessible**: created [Celldetective](https://github.com/remyeltorro/celldetective), a versatile software (Python package & PyQt GUI) developed organically with and for collaborators to perform the above-mentioned studies autonomously. Involved in several projects (see below). Go-to person to design analysis pipelines (scripts, [ImageJ macros](https://github.com/remyeltorro/macros-imagej), notebooks, GUI)...
+* **Data analysis**: quantified and modeled the increase in immune to cancer cell kill rate with new antibodies from optical microscopy images
+* **Scientific discovery**: described and measured the spreading decision rate of immune cells on antibody-covered surfaces, that correlates with the kill rate
+* **Technical but accessible**: assembled [Celldetective](https://github.com/remyeltorro/celldetective), a versatile software (Python package & PyQt GUI) developed organically with and for collaborators to perform the studies mentioned above autonomously. Go-to person, internally, to design analysis pipelines
 
   
 ## Projects
