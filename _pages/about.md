@@ -17,12 +17,14 @@ redirect_from:
 <strong>Post-doctoral researcher @ Centre Interdisciplinaire de Nanosciences de Marseille (<a href="https://www.cinam.univ-mrs.fr/cinam/">CINaM</a>) (June-July 2024)</strong>
 
 * Software development and maintenance ([Celldetective](https://github.com/remyeltorro/celldetective))
-* Development of appropriate benchmarks to test segmentation, classification and regression performance of traditional and Deep-learning models on test data
-* Design of cell pair measurements. Develop a viewer and annotator for cell pairs
+* Development of appropriate benchmarks to test segmentation (double scoring on detection accuracy and segmentation quality over cells with non ambiguous area), classification and regression performance of traditional and Deep-learning models on test data
+* Internship supervision to design cell pair descriptors and a PyQt viewer to interact with cell pairs
  
 <strong>Ph.D. candidate @ Laboratoire Adhésion & Inflammation (<a href="https://labadhesioninflammation.org/">LAI</a>) and CINaM (September 2020 - April 2024)</strong>
 
-* Development of a versatile method to study the effect of biological conditions on immune cell interactions with cancer cells or biomimetic surfaces. Single-cell resolution for mixed cell populations imaged using various optical microscopy techniques (brightfield, reflection interference, fluorescence...). Event formulation adapted to the system (death, spreading...).
+* **Data analysis**: quantified and modelled the increase in immune to cancer cell kill rate with new antibodies, from optical microscopy images
+* **Scientific discovery**: described and measured the spreading decision rate of immune cells on antibody-covered surfaces, that correlates with kill rate
+* **Technical but accessible**: created [Celldetective](https://github.com/remyeltorro/celldetective), a versatile software (Python package & PyQt GUI) developed organically with and for collaborators to perform the above-mentioned studies autonomously. Involved in several projects (see below). Go-to person to design analysis pipelines (scripts, [ImageJ macros](https://github.com/remyeltorro/macros-imagej), notebooks, GUI)...
 
   
 ## Projects
