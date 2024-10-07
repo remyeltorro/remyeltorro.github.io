@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid #ff7f0e;
+  border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -49,6 +49,6 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
-    color: #000000;
+    color: #ff7f0e;
   }
 }
