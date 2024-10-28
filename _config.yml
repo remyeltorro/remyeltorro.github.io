@@ -14,7 +14,7 @@ description              : &description "hello world"
 url                      : https://remyeltorro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "remyeltorro/remyeltorro.github.io"
-teaser                   : "rsz_dsc_1278.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rémy Torro"
-  avatar           : "rsz_dsc_1278.jpg"
+  avatar           : "profile.jpg"
   bio              : 
   location         : "Marseille"
   employer         : 
@@ -102,7 +102,7 @@ author:
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rémy-torro-607a50112"
+  linkedin         : "rémy-torro"
   orcid            : "https://orcid.org/0000-0002-4903-8304"
   pinterest        :
   soundcloud       :
