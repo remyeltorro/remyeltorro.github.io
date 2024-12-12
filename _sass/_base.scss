@@ -46,7 +46,8 @@ header {
   display: block;
   width: 270px;
   float: left;
-  position: fixed;
+  position: sticky;
+  top: 0;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
